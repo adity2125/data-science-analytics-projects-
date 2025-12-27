@@ -1,0 +1,21 @@
+Employee ID,Name,Age,Department,Salary,Years at Company,Performance Score,Attrition (Yes/No)
+E001,Rahul Sharma,29,Sales,52000,3,8.5,No
+E002,Priya Mehta,34,HR,61000,6,9.1,No
+E003,Aman Verma,41,IT,75000,10,7.8,Yes
+E004,Sneha Gupta,26,Marketing,48000,2,8.9,No
+E005,Karan Singh,37,Finance,82000,9,6.5,Yes
+E006,Neha Kapoor,31,IT,68000,5,9.3,No
+E007,Aditya Joshi,28,Sales,55000,3,7.4,Yes
+E008,Ritu Chauhan,45,Operations,90000,15,8.2,No
+E009,Arjun Patel,24,Customer Support,40000,1,6.8,Yes
+E010,Divya Nair,33,HR,62000,7,8.7,No
+E011,Rohit Malhotra,39,Finance,85000,11,7.1,Yes
+E012,Meera Bansal,27,Marketing,51000,2,9.0,No
+E013,Suresh Yadav,43,IT,78000,12,7.6,Yes
+E014,Tanya Roy,30,Sales,56000,4,8.4,No
+E015,Vikram Desai,36,Operations,72000,8,8.0,No
+E016,Anjali Rao,32,HR,64000,6,9.4,No
+E017,Manish Tiwari,40,IT,77000,10,6.9,Yes
+E018,Shreya Iyer,25,Marketing,47000,1,8.5,No
+E019,Deepak Chauhan,38,Finance,83000,9,7.3,No
+E020,Kavita Menon,29,Customer Support,42000,2,6.7,Yes
